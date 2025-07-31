@@ -36,7 +36,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## 🔗 Live Preview
 
-> Coming Soon (Optional: You can host it on GitHub Pages or Netlify)
+[(http://htmlpreview.github.io/?https://github.com/sohom09/PORTFOLIO/blob/main/index.html)]
 
 ---
 
